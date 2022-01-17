@@ -5,6 +5,11 @@
   <a href="https://open.spotify.com/user/6ko8itlpb1axrtbilql5k6fmg" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <a href="https://www.instagram.com/kapsenttt/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
   
+</h4>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=bixyjs&color=dc143c"/>
+</div>
+
  
  ## Langauges I Know:
 
